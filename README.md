@@ -8,4 +8,7 @@ The code has been written with scalability and maintainability in mind, making i
 Please feel free to explore the code, provide feedback, or contribute. I believe in the power of collaborative development and I am looking forward to seeing what improvements the open-source community can bring to this project. Thank you!"
 
 You have to change database.php-get_events.php for the database connection .
+You have to make a user login with whatever you want user system
+if you have a problem about install , you can send me mail to admin@digitalchateaux.com
 
+www.digitalchateaux.com

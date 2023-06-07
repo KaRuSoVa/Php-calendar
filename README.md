@@ -7,7 +7,5 @@ The code has been written with scalability and maintainability in mind, making i
 
 Please feel free to explore the code, provide feedback, or contribute. I believe in the power of collaborative development and I am looking forward to seeing what improvements the open-source community can bring to this project. Thank you!"
 
-Remember to replace or add any specific details about your software to make this description as accurate as possible.
-
 You have to change database.php-get_events.php for the database connection .
 
